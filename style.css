@@ -1,0 +1,127 @@
+body {
+    margin:0;
+    padding:0;
+    font-family: 'Roboto', sans-serif;
+
+}
+.top_section {
+    background:white;
+    overflow: hidden;
+}
+.top_content {
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.top_content img {
+    width:100%;
+    margin-top: 120px;
+}
+h1{
+margin-top: 125px;
+font-size: 50px;
+}
+h2{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+span {
+    color: tomato;
+}
+
+.bottom_section {
+    overflow: hidden;
+}
+.bottom_content {
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+
+.bottom_content img {
+    width:100%;
+}
+
+a {
+    display: inline-block;
+    margin-top: 40px ;
+    padding: 15px 30px;
+    border-radius: 5px;
+    background:tomato;
+    text-decoration: none;
+    color:white;
+}
+
+.latest_working {
+    text-align: center;
+    background: lightgray;
+    display: block;
+    padding-left: 0%;
+    padding-bottom: 120px;
+}
+.latest_working h1 {
+    padding-top: 120px;
+    padding-bottom: 8px;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.singule_work  {
+    width:24%;
+    margin-left: 2%;
+    display: inline-block;
+    background: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+.singule_work img {
+    width:100%;
+
+}
+
+.inquire {
+    text-align: center;
+
+}
+.inquire_background {
+    width:60%;
+    height: 200px;
+    padding: 20px;
+    background: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    margin-left: 18%;
+    padding-left: 2%;
+}
+
+.ik {
+    color: white;
+    float: left;
+    margin-top: 55px;
+    margin-left: 40px;
+}
+.chat_btn{
+    float: right;
+    margin-right: 50px;
+    margin-top: 58px;
+    padding: 18px 25px;
+}
+
+.social {
+    padding:0;
+    background:none;
+    margin-right: 30px;
+
+}
+.social img {
+    width:50px;
+    height: 50px;
+}
